@@ -1,5 +1,13 @@
-# Sử dụng module turtule - một module có sẵn trong python nên là bạn không cần tải thêm gì khác
-# Module này có khă năng làm đồ họa cơ bản hay còn gọi là giao diện người dùng (như là tạo 1 cửa sổ trên Windows chả hạn)
+'''
+Sử dụng module turtule - một module có sẵn trong python nên là bạn không cần tải thêm gì khác
+Module này có khă năng làm đồ họa cơ bản hay còn gọi là giao diện người dùng (như là tạo 1 cửa sổ trên Windows chả hạn)
+
+
+Cách chạy nếu các bạn quên
+Tạo 1 file python trong Visual Studio Code với nội dung copy paster từ đây
+Sau đấy vào Terminal > New Terminal chạy lệnh 'py christmas.py' nhé
+'''
+
 import turtle
 
 print("Giáng Sinh vui vẻ nhé!")
